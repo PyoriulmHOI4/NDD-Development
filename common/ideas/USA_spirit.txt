@@ -1,0 +1,55 @@
+ideas = {
+    country = {
+        USA_Civil_Rights_Movement = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = PICTURE_ID_GOES_HERE
+        
+            modifier = {
+                
+            }
+        }
+        USA_Refuse_Fascism = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = PICTURE_ID_GOES_HERE
+        
+            modifier = {
+                
+            }
+        }
+        USA_Bastion_Of_Democracy_Idea = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = PICTURE_ID_GOES_HERE
+        
+            modifier = {
+                
+            }
+        }
+    }
+}

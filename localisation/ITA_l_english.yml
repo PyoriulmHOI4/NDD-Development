@@ -1,0 +1,23 @@
+﻿l_english:
+ # Country Naming
+ ITA_right_nationalism:0 "Kingdom of Italy"
+ ITA_right_nationalism_DEF:0 "the Kingdom of Italy"
+ ITA_right_nationalism_ADJ:0 "Italian"
+ ITA:0 "Italy"
+ ITA_DEF:0 "Italy"
+ ITA_ADJ:0 "Italian"
+ 
+ # Country Party Naming
+ ITA_left_nationalism_party:0 "PSDLI" #Made up
+ ITA_left_nationalism_party_long:0 "Partito Sindacale Dei Lavoratori Italiani" #Made up
+ ITA_leftism_party:0 "PCI"
+ ITA_leftism_party_long:0 "Partito Comunista d'Italia"
+ ITA_democratic_party:0 "Partito Popolare Italiano"
+ ITA_authoritarianism_party:0 "House of Savoy"
+ ITA_rightism_party:0 "PNF"
+ ITA_rightism_party_long:0 "Partito Nazionale Fascista"
+ ITA_right_nationalism_party:0 "PNF"
+ ITA_right_nationalism_party_long:0 "Partito Nazionale Fascista"
+
+ # Leader Descriptions
+ POLITICS_BENITO_MUSSOLINI_DESC:0 "#"

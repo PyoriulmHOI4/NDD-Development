@@ -1,0 +1,26 @@
+capital = 586
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+    ruling_party = rightism
+}
+
+set_popularities = {
+	rightism = 100
+}
+
+create_country_leader = {
+	name = "Placeholder"
+	desc = "POLITICS_PLACEHOLDER_DESC"
+	picture = "P_R_Placeholder.tga"
+	expire = "1965.1.1"
+	ideology = salafism
+	traits = {
+		#
+	}
+}

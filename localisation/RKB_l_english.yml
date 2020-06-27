@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKB_right_nationalism:0 "Reichskommissariat Belgien und Nordfrankreich"
+ RKB_right_nationalism_DEF:0 "the Reichskommissariat Belgien und Nordfrankreich"
+ RKB_right_nationalism_ADJ:0 "German"
+ RKB:0 "Belgium"
+ RKB_DEF:0 "Belgium"
+ RKB_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKB_left_nationalism_party:0 "KGRNS"
+ RKB_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKB_leftism_party:0 "KPD"
+ RKB_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKB_democratic_party:0 "Zentrumspartei"
+ RKB_authoritarianism_party:0 "DNVP"
+ RKB_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKB_rightism_party:0 "KVP"
+ RKB_rightism_party_long:0 "Konservative Volkspartei"
+ RKB_right_nationalism_party:0 "NSDAP"
+ RKB_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_JOSEF_GROHE_DESC:0 "#"

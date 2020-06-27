@@ -1,0 +1,12 @@
+spriteTypes = {
+    # Generic
+    spriteType = {
+        name = "GFX_GENERIC_Torch_Of_Democracy"
+        textureFile = "gfx/interface/goals/GENERIC_Torch_Of_Democracy.dds"
+    }
+    # United States
+    spriteType = {
+        name = "GFX_USA_1949_State_Of_The_Union"
+        textureFile = "gfx/interface/goals/USA_1949_State_Of_The_Union.dds"
+    }
+}

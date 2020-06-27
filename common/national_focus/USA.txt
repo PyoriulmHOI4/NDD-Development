@@ -1,0 +1,38 @@
+focus_tree = {
+    id = USA_focus
+    country = {
+        factor = 0
+        modifier = {
+            add = 50
+            tag = USA
+        }
+    }
+    default = no
+
+    focus = {
+        id = USA_1949_State_Of_The_Union
+        icon = GFX_USA_1949_State_Of_The_Union
+        cost = 5
+        x = 8
+        y = 0
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Bastion_Of_Democracy
+        icon = GFX_GENERIC_Torch_Of_Democracy
+        cost = 10
+        x = -2
+        y = 0
+        prerequisite = {
+            focus = USA_1949_State_Of_The_Union
+        }
+        relative_position_id = USA_1949_State_Of_The_Union
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+}

@@ -1,0 +1,27 @@
+﻿l_english:
+ # Country Naming
+ RKM_right_nationalism:0 "Reichskommissariat Moskowien"
+ RKM_right_nationalism_DEF:0 "the Reichskommissariat Moskowien"
+ RKM_right_nationalism_ADJ:0 "German"
+ RKM:0 "Moscow"
+ RKM_DEF:0 "Moscow"
+ RKM_ADJ:0 "German"
+
+
+ # Country Party Naming
+ RKM_left_nationalism_party:0 "KGRNS"
+ RKM_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKM_leftism_party:0 "KPD"
+ RKM_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKM_democratic_party:0 "Zentrumspartei"
+ RKM_authoritarianism_party:0 "DNVP"
+ RKM_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKM_rightism_party:0 "KVP"
+ RKM_rightism_party_long:0 "Konservative Volkspartei"
+ RKM_right_nationalism_party:0 "NSDAP"
+ RKM_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_SIEGFRIED_KASCHE_DESC:0 "#"

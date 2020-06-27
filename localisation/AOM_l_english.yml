@@ -1,0 +1,18 @@
+﻿  l_english:
+ # Country Naming
+ AOM_authoritarianism:0 "American Occupation Zone of Manchuria"
+ AOM_authoritarianism_DEF:0 "the American Occupation Zone of Manchuria"
+ AOM_authoritarianism_ADJ:0 "Chinese"
+ AOM:0 "Occupied Manchuria"
+ AOM_DEF:0 "Occupied Manchuria"
+ AOM_ADJ:0 "Chinese"
+
+
+
+ # Country Party Naming
+ COMING SOON
+
+
+
+ # Leader Descriptions 
+ POLITICS_PLACEHOLDER_DESC:0 "#"

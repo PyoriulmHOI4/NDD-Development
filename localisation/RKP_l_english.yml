@@ -1,0 +1,29 @@
+﻿l_english:
+ # Country Naming
+ RKP_right_nationalism:0 "Reichskommissariat Polen"
+ RKP_right_nationalism_DEF:0 "the Reichskommissariat Polen"
+ RKP_right_nationalism_ADJ:0 "German"
+ RKP:0 "Poland"
+ RKP_DEF:0 "Poland"
+ RKP_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKP_left_nationalism_party:0 "KGRNS"
+ RKP_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKP_leftism_party:0 "KPD"
+ RKP_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKP_democratic_party:0 "Zentrumspartei"
+ RKP_authoritarianism_party:0 "DNVP"
+ RKP_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKP_rightism_party:0 "KVP"
+ RKP_rightism_party_long:0 "Konservative Volkspartei"
+ RKP_right_nationalism_party:0 "NSDAP"
+ RKP_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_HANS_FRANK_DESC:0 "Reichskommissar Hans Frank has never enjoyed his position. He was perfectly content with being a Party bureaucrat in Berlin, but the Führer evidently saw something in him that made him place Hans in the position of Reichskommissar of the RK Polen. If Hans new what it was, he would do everything he could to upset the Führer and get him to remove Hans from the position of Reichskommissar. Having to  deal with Polish civilians was bad enough, but having to not only co-operate with the Poles, but also let them “help” govern the Reichskommissariat is the worst nightmare Hans never knew he’d have. He dreams of defying Berlin and just wiping the Poles off the face of the Earth for good. Given the Führer’s age and declining health, Hans’s dream may yet become reality soon enough..."
+ 

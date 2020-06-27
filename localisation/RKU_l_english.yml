@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKU_right_nationalism:0 "Reichskommissariat Ukraine"
+ RKU_right_nationalism_DEF:0 "the Reichskommissariat Ukraine"
+ RKU_right_nationalism_ADJ:0 "German"
+ RKU:0 "Ukraine"
+ RKU_DEF:0 "Ukraine"
+ RKU_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKU_left_nationalism_party:0 "KGRNS"
+ RKU_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKU_leftism_party:0 "KPD"
+ RKU_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKU_democratic_party:0 "Zentrumspartei"
+ RKU_authoritarianism_party:0 "DNVP"
+ RKU_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKU_rightism_party:0 "KVP"
+ RKU_rightism_party_long:0 "Konservative Volkspartei"
+ RKU_right_nationalism_party:0 "NSDAP"
+ RKU_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_ERICH_KOCH_DESC:0 "#"

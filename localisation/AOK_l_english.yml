@@ -1,0 +1,18 @@
+﻿l_english:
+ # Country Naming
+ AOK_authoritarianism:0 "American Occupation Zone of Korea"
+ AOK_authoritarianism_DEF:0 "the American Occupation Zone of Korea"
+ AOK_authoritarianism_ADJ:0 "Korean"
+ AOK:0 "Occupied Korea"
+ AOK_DEF:0 "Occupied Korea"
+ AOK_ADJ:0 "Korean"
+
+
+
+ # Country Party Naming
+ COMING SOON
+
+
+
+ # Leader Descriptions 
+ POLITICS_PLACEHOLDER_DESC:0 "#"

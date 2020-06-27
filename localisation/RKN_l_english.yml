@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKN_right_nationalism:0 "Reichskommissariat Norwegen"
+ RKN_right_nationalism_DEF:0 "the Reichskommissariat Norwegen"
+ RKN_right_nationalism_ADJ:0 "German"
+ RKN:0 "Norway"
+ RKN_DEF:0 "Norway"
+ RKN_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKN_left_nationalism_party:0 "KGRNS"
+ RKN_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKN_leftism_party:0 "KPD"
+ RKN_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKN_democratic_party:0 "Zentrumspartei"
+ RKN_authoritarianism_party:0 "DNVP"
+ RKN_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKN_rightism_party:0 "KVP"
+ RKN_rightism_party_long:0 "Konservative Volkspartei"
+ RKN_right_nationalism_party:0 "NSDAP"
+ RKN_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_JOSEF_TERBOVEN_DESC:0 "#"

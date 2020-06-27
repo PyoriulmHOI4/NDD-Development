@@ -1,0 +1,21 @@
+﻿l_english:
+ # Country Naming
+ GER_right_nationalism:0 "Greater German Reich"
+ GER_right_nationalism_DEF:0 "the Greater German Reich"
+ GER_right_nationalism_ADJ:0 "German"
+ 
+ # Country Party Naming
+ GER_left_nationalism_party:0 "KGRNS"
+ GER_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ GER_leftism_party:0 "KPD"
+ GER_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ GER_democratic_party:0 "Zentrumspartei"
+ GER_authoritarianism_party:0 "DNVP"
+ GER_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ GER_rightism_party:0 "KVP"
+ GER_rightism_party_long:0 "Konservative Volkspartei"
+ GER_right_nationalism_party:0 "NSDAP"
+ GER_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+ # Leader Descriptions
+ POLITICS_ADOLF_HITLER_DESC:0 "Who would've thought that a sickly boy who wanted to be an artist would become the single-most powerful man in the world? \n\nFollowing the devastation of the First World War, Corporal Adolf Hitler returned to a Germany in ruin. All around him, he saw rot and greed. It was not long before he found the source, the minorities. They had been welcomed as guests, but thought to act as the hosts. Hitler would make sure that their evil was exposed and destroyed- and so he did. Taking charge of the then-young Nazi Party, Hitler led the party to victory in election after election. In 1932, the NSDAP became the largest party in Germany, and the next year Hitler was declared Führer of all Germany. \n\nBy the end of 1946, Hitler's dream of a Germany and a Europe free from Bolshevik and Capitalist influence had been achieved. True, the Bolsheviks are still around, but they are scattered and thus pose little threat. The American Mongrels, however, still controlled by the Capitalists, remains in a position to oppose the Reich. \n\nNow 60, Hitler can feel the Reaper's cold breath on his shoulder as the inevitable fate of all men inches ever closer. He wonders if there is still enough time for him to ensure the safety of the Reich's future..."

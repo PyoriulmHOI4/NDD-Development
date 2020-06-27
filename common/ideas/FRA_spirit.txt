@@ -1,0 +1,39 @@
+ideas = {
+    country = {
+        FRA_The_Lost_Democracy = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = FRA_The_Lost_Democracy
+        
+            modifier = {
+                democratic_drift = -0.05
+                authoritarianism_drift = 0.05
+            }
+        }
+        FRA_Rise_And_Resist = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = FRA_Rise_And_Resist
+        
+            modifier = {
+                stability_factor = -0.10
+            }
+        }
+    }
+}

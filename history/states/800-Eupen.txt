@@ -1,0 +1,17 @@
+state={
+	id=800
+	name="STATE_800"
+	
+	state_category = rural
+
+	history = {
+	   owner = GER
+	   add_core_of = GER
+	   add_claim_by = BEL
+	}
+	provinces={
+		3488 
+	}
+	manpower=41862
+	buildings_max_level_factor=1.000
+}

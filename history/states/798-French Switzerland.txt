@@ -1,0 +1,15 @@
+state={
+	id = 798
+	name = "STATE_798"
+	provinces = {
+		6666 6683 9622 13124 
+	}
+	manpower = "25000"
+	state_category = "rural"
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = FRA
+		add_core_of = FRA
+	}
+}

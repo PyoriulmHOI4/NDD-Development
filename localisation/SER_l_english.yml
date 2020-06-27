@@ -1,0 +1,17 @@
+﻿l_english:
+ # Country Naming
+ SER_right_nationalism:0 "Government of National Salvation"
+ SER_right_nationalism_DEF:0 "the Government of National Salvation"
+ SER_right_nationalism_ADJ:0 "Serbian"
+ SER:0 "Serbia"
+ SER_DEF:0 "Serbia"
+ SER_ADJ:0 "Serbian"
+
+
+ # Country Party Naming
+ COMING SOON
+
+
+
+ # Leader Descriptions 
+ POLITICS_MILAN_NEDIC_DESC:0 "#"

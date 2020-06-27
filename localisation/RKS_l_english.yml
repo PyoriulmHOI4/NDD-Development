@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKS_right_nationalism:0 "Reichskommissariat Slowakei"
+ RKS_right_nationalism_DEF:0 "the Reichskommissariat Slowakei"
+ RKS_right_nationalism_ADJ:0 "German"
+ RKS:0 "Slovakia"
+ RKS_DEF:0 "Slovakia"
+ RKS_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKS_left_nationalism_party:0 "KGRNS"
+ RKS_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKS_leftism_party:0 "KPD"
+ RKS_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKS_democratic_party:0 "Zentrumspartei"
+ RKS_authoritarianism_party:0 "DNVP"
+ RKS_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKS_rightism_party:0 "KVP"
+ RKS_rightism_party_long:0 "Konservative Volkspartei"
+ RKS_right_nationalism_party:0 "NSDAP"
+ RKS_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_JOZEF_TISO_DESC:0 "#"

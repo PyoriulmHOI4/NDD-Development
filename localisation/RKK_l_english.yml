@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKK_right_nationalism:0 "Reichskommissariat Kaukasus"
+ RKK_right_nationalism_DEF:0 "the Reichskommissariat Kaukasus"
+ RKK_right_nationalism_ADJ:0 "German"
+ RKK:0 "Caucasus"
+ RKK_DEF:0 "Caucasus"
+ RKK_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKK_left_nationalism_party:0 "KGRNS"
+ RKK_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKK_leftism_party:0 "KPD"
+ RKK_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKK_democratic_party:0 "Zentrumspartei"
+ RKK_authoritarianism_party:0 "DNVP"
+ RKK_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKK_rightism_party:0 "KVP"
+ RKK_rightism_party_long:0 "Konservative Volkspartei"
+ RKK_right_nationalism_party:0 "NSDAP"
+ RKK_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_ARNO_SCHICKEDANZ_DESC:0 "#"

@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKC_right_nationalism:0 "Reichskommissariat Krim"
+ RKC_right_nationalism_DEF:0 "the Reichskommissariat Krim"
+ RKC_right_nationalism_ADJ:0 "German"
+ RKC:0 "Crimea"
+ RKC_DEF:0 "Crimea"
+ RKC_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKC_left_nationalism_party:0 "KGRNS"
+ RKC_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKC_leftism_party:0 "KPD"
+ RKC_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKC_democratic_party:0 "Zentrumspartei"
+ RKC_authoritarianism_party:0 "DNVP"
+ RKC_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKC_rightism_party:0 "KVP"
+ RKC_rightism_party_long:0 "Konservative Volkspartei"
+ RKC_right_nationalism_party:0 "NSDAP"
+ RKC_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_ALFRED_FRAUENFELD_DESC:0 "#"

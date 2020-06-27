@@ -1,0 +1,15 @@
+state={
+	id = 797
+	name = "STATE_797"
+	provinces = {
+		911 956 3764 3928 3959 3961 6975 9736 9738 9909 11721 
+	}
+	manpower = "300000"
+	state_category = "city"
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+	}
+}

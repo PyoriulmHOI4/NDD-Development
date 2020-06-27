@@ -1,0 +1,28 @@
+﻿l_english:
+ # Country Naming
+ RKO_right_nationalism:0 "Reichskommissariat Ostland"
+ RKO_right_nationalism_DEF:0 "the Reichskommissariat Ostland"
+ RKO_right_nationalism_ADJ:0 "German"
+ RKO:0 "Ostland"
+ RKO_DEF:0 "Ostland"
+ RKO_ADJ:0 "German"
+
+
+
+ # Country Party Naming
+ RKO_left_nationalism_party:0 "KGRNS"
+ RKO_left_nationalism_party_long:0 "Kampfgemeinschaft Revolutionärer Nationalsozialisten"
+ RKO_leftism_party:0 "KPD"
+ RKO_leftism_party_long:0 "Kommunistiche Partei Deutschlands"
+ RKO_democratic_party:0 "Zentrumspartei"
+ RKO_authoritarianism_party:0 "DNVP"
+ RKO_authoritarianism_party_long:0 "Deutschnationale Volkspartei"
+ RKO_rightism_party:0 "KVP"
+ RKO_rightism_party_long:0 "Konservative Volkspartei"
+ RKO_right_nationalism_party:0 "NSDAP"
+ RKO_right_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
+
+
+ # Leader Descriptions 
+ POLITICS_HINRICH_LOHSE_DESC:0 "#"

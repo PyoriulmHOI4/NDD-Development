@@ -1,0 +1,22 @@
+﻿l_english:
+ # Country Naming
+ SOV_leftism:0 "Siberian Soviet Republic"
+ SOV_leftism_DEF:0 "the Siberian Soviet Republic"
+ SOV_leftism_ADJ:0 "Soviet"
+ SOV:0 "Siberian SR"
+ SOV_DEF:0 "Siberian SR"
+ SOV_ADJ:0 "Soviet"
+ 
+ # Country Party Naming
+ SOV_left_nationalism_party:0 "SNRP" # Made Up
+ SOV_left_nationalism_party_long:0 "Sovetskaya Narodno-Revolyutsionnaya Partiya" # Made Up
+ SOV_leftism_party:0 "VKP - B"
+ SOV_leftism_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya - Bol'sheviki"
+ SOV_democratic_party:0 "Party of Unity" # Made Up
+ SOV_authoritarianism_party:0 "Tsarist Partisans"
+ SOV_rightism_party:0 "RFP"
+ SOV_rightism_party_long:0 "Russkaya Fashistskaya Partiya"
+ SOV_right_nationalism_party:0 "Nazi Partisans"
+
+ # Leader Descriptions
+ POLITICS_LAVRENTIY_BERIA_DESC:0 "#"

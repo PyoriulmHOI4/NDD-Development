@@ -1,0 +1,37 @@
+﻿l_english:
+ # Country Naming
+ USA_left_nationalism: "National Commune of the United States"
+ USA_left_nationalism_DEF: "the National Commmune of the United States"
+ USA_left_nationalism_ADJ: "American"
+ USA_leftism: "United American Commune"
+ USA_leftism_DEF: "the United American Commune"
+ USA_leftism_ADJ: "American"
+ USA_democratic: "United States of America"
+ USA_democratic_DEF: "the United States of America"
+ USA_democratic_ADJ: "American"
+ USA_ADJ: "American"
+
+ # Country Party Naming
+ USA_democratic_party: "Democratic Party"
+ USA_republican_party: "Republican Party"
+ USA_left_nationalism_party: "SUP"
+ USA_left_nationalism_party_long: "Socialist Union Party"
+ USA_leftism_party: "CPUSA"
+ USA_leftism_party_long: "Communist Party USA"
+ USA_authoritarianism: ""
+ USA_rightism_party: "IPUSA"
+ USA_rightism_party_long: "Integralist Party of the United States of America"
+ USA_right_nationalism_party: "Fascist Partisans"
+
+ # Leader Descriptions
+ USA_Henry_Wallace_Description: "Henry Agard Wallace is a proud representative of the American people. As the Vice President for about four years before taking on the Presidency, Wallace has been denoted for his progressive and social democratic views and ideas for the American nation. Once sitting President Franklin Delano Roosevelt was dead, Wallace was to step up and finish the war efforts. While the battle in Europe didn't exactly end in his favor, Wallace achieved a remarkable victory over the imperialists in the East.\n\nNow, as the incumbent President of the United States, he has the role of leading a nuclear power through a disastrous and dangerous time. Wallace has vowed to give stronger and more reliable rights to minorities and female communities and proves to be a strong opponent of the fascist regimes in Europe. However, through his presidency, whispers in the room emerge, supporting his changing America in a changing era. However, new demands are on the table.\n\n§RPerhaps Wallace should get around to reading those demands...§!"
+
+ # Spirit Names & Descriptions
+ USA_Civil_Rights_Movement: "Civil Rights Movement"
+ USA_Refuse_Fascism: "Refuse Fascism"
+ USA_Bastion_Of_Democracy_Idea: "Bastion of Democracy"
+
+ # Focus Names & Descriptions
+ USA_1949_State_Of_The_Union: "1949 State of the Union"
+ USA_Bastion_Of_Democracy: "Bastion of Democracy"
+ # Events

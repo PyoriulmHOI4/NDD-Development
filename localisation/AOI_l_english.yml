@@ -1,0 +1,18 @@
+﻿l_english:
+ # Country Naming
+ AOI_authoritarianism:0 "American Occupation Zone of Indochina"
+ AOI_authoritarianism_DEF:0 "the American Occupation Zone of Indochina"
+ AOI_authoritarianism_ADJ:0 "Indochinese"
+ AOI:0 "Occupied Indochina"
+ AOI_DEF:0 "Occupied Indochina"
+ AOI_ADJ:0 "Indochinese"
+
+
+
+ # Country Party Naming
+ COMING SOON
+
+
+
+ # Leader Descriptions 
+ POLITICS_PLACEHOLDER_DESC:0 "#"
