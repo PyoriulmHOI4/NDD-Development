@@ -210,6 +210,9 @@ ideologies = {
 			
 			christian_democracy = {
 			}
+
+			centrism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -321,24 +324,31 @@ ideologies = {
 	right_nationalism = {
 	
 		types = {
-		
-			esoteric_national_socialism  = {
-			}
-			
-			national_socialism  = {
-			}
 
 			fascism = {
 			}
 			
-			legionarism = {
+			national_socialism  = {
 			}
 			
-			ethnic_nationalism = {
+			feudal_fascism = {
+			}
+			
+			volkisch = {
+			}
+
+			classical_fascism = {
+			}
+
+			antonism = {
+			}
+			
+			francoism = {
 			}
 
 			ultranationalism = {
 			}
+			
 		}
 
 		dynamic_faction_names = {
