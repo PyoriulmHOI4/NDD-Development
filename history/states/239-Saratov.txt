@@ -1,0 +1,26 @@
+
+state={
+	id=239
+	name="STATE_239"
+	manpower = 1226088
+	
+	state_category = town
+
+	history={
+		owner = RKM
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+		victory_points = {
+			3578 5 
+		}
+		add_core_of = RKM
+		add_claim_by = GER
+		add_claim_by = SOV
+	}
+
+	provinces={
+		353 433 483 578 3304 3426 3465 3578 6328 6450 6492 6539 9326 9352 9460 9564 11308 11408 11449 11551 
+	}
+}

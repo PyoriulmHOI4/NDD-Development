@@ -1,0 +1,18 @@
+state={
+	id=804
+	name="STATE_804"
+	
+	state_category = city
+
+	history = {
+	   owner = BUL
+	   add_core_of = BUL
+	   add_claim_by = YUG
+	   add_claim_by = SER
+	}
+    provinces={
+		11832 11857 11868
+	}
+	manpower=57928
+	buildings_max_level_factor=1.000
+}

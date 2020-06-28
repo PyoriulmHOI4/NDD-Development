@@ -1,0 +1,18 @@
+state={
+	id=805
+	name="STATE_805"
+	
+	state_category = town
+
+	history = {
+	   owner = ITA
+	   add_core_of = ITA
+	   add_claim_by = YUG
+	   add_claim_by = MAC
+	}
+	provinces={
+		833 867
+	}
+	manpower=292798
+	buildings_max_level_factor=1.000
+}

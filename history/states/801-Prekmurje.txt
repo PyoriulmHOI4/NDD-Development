@@ -1,0 +1,17 @@
+state={
+	id=801
+	name="STATE_801"
+	
+	state_category = rural
+
+	history = {
+	   owner = HUN
+	   add_core_of = HUN
+	   add_claim_by = YUG
+	}
+	provinces={
+		6672 
+	}
+	manpower=78000
+	buildings_max_level_factor=1.000
+}
