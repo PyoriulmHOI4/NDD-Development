@@ -19,3 +19,22 @@ country_event = {
         name = USA.1.a
     }
 }
+
+country_event = {
+    id = USA.2
+    title = USA.2.title
+    desc = USA.2.desc
+    picture = GFX_Report_USA_Congress
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+    trigger = {}
+    mean_time_to_happen = {
+        days = 2
+    }
+
+    option = {
+        name = USA.2.a
+    }
+}

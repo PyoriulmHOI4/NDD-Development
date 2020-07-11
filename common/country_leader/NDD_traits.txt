@@ -1,0 +1,3 @@
+leader_traits = {
+    SUB_Social_Democracy = { random = no }
+}

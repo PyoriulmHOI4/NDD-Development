@@ -17,7 +17,9 @@ focus_tree = {
         y = 0
         search_filters = { }
         completion_reward = {
-            
+            country_event = {
+                id = USA.2
+            }
         }
     }
     focus = {
@@ -109,7 +111,7 @@ focus_tree = {
     }
     focus = {
         id = USA_Mulvey_Plan
-        icon = icon_goes_here
+        icon = GFX_GENERIC_Inspect_Prisons
         cost = 5
         x = 0
         y = 1
@@ -126,7 +128,7 @@ focus_tree = {
     }
     focus = {
         id = USA_Operation_Jackalope
-        icon = icon_goes_here
+        icon = GFX_GENERIC_Befriend_Britain
         cost = 5
         x = 1
         y = 1
@@ -143,7 +145,7 @@ focus_tree = {
     }
     focus = {
         id = USA_Navy_Of_The_North_Sea
-        icon = icon_goes_here
+        icon = GFX_USA_Navy_Of_The_North_Sea
         cost = 5
         x = 0
         y = 1
@@ -160,7 +162,7 @@ focus_tree = {
     }
     focus = {
         id = USA_Land_For_Its_People
-        icon = icon_goes_here
+        icon = GFX_goal_support_democracy
         cost = 5
         x = 1
         y = 1
@@ -178,7 +180,7 @@ focus_tree = {
     }
     focus = {
         id = USA_Expand_Foreign_Outreach
-        icon = icon_goes_here
+        icon = GFX_USA_Expand_Foreign_Outreach
         cost = 5
         x = 2
         y = 1
@@ -195,7 +197,7 @@ focus_tree = {
     }
     focus = {
         id = USA_Statehood_To_Pacific_Territories
-        icon = icon_goes_here
+        icon = GFX_USA_Statehood_To_Pacific_Territories
         cost = 5
         x = 0
         y = 1
@@ -210,5 +212,203 @@ focus_tree = {
             
         }
     }
-
+    focus = {
+        id = USA_Set_The_Zones_Free
+        icon = GFX_USA_Set_The_Zones_Free
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Statehood_To_Pacific_Territories
+        }
+        relative_position_id = USA_Statehood_To_Pacific_Territories
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Workers_In_The_White_House
+        icon = GFX_GENERIC_Anti_Capitalism
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_1949_State_Of_The_Union
+        }
+        relative_position_id = USA_1949_State_Of_The_Union
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Set_The_New_Minimum_Wage
+        icon = GFX_GENERIC_Working_Class
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Workers_In_The_White_House
+        }
+        relative_position_id = USA_Workers_In_The_White_House
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Rebranding_Refuse_Fascism
+        icon = GFX_USA_Rebranding_Refuse_Fascism
+        cost = 10
+        x = 4
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_1949_State_Of_The_Union
+        }
+        relative_position_id = USA_1949_State_Of_The_Union
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Anti_Fascist_Action
+        icon = GFX_USA_Anti_Fascist_Action
+        cost = 5
+        x = -2
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Rebranding_Refuse_Fascism
+        }
+        mutually_exclusive = {
+            focus = USA_House_Of_American_Democratic_Security
+            focus = USA_AWCPM
+        }
+        relative_position_id = USA_Rebranding_Refuse_Fascism
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Anti_Fascist_Militarism
+        icon = GFX_GENERIC_Anti_Fascist_Militarism
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Anti_Fascist_Action
+        }
+        relative_position_id = USA_Anti_Fascist_Action
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_House_Of_American_Democratic_Security
+        icon = GFX_focus_generic_anti_fascist_diplomacy
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Rebranding_Refuse_Fascism
+        }
+        mutually_exclusive = {
+            focus = USA_Anti_Fascist_Action
+            focus = USA_AWCPM
+        }
+        relative_position_id = USA_Rebranding_Refuse_Fascism
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Expand_The_National_Security_Office
+        icon = GFX_goal_generic_intelligence_exchange
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_House_Of_American_Democratic_Security
+        }
+        relative_position_id = USA_House_Of_American_Democratic_Security
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_AWCPM
+        icon = GFX_goal_generic_propaganda
+        cost = 5
+        x = 2  
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Rebranding_Refuse_Fascism
+        }
+        mutually_exclusive = {
+            focus = USA_Anti_Fascist_Action
+            focus = USA_House_Of_American_Democratic_Security
+        }
+        relative_position_id = USA_Rebranding_Refuse_Fascism
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Civility_Through_Power
+        icon = GFX_GENERIC_Torch_Of_Democracy
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_AWCPM
+        }
+        relative_position_id = USA_AWCPM
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = USA_Reshuffle_National_Security
+        icon = GFX_GENERIC_Foreign_Diplomacy
+        cost = 5
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = USA_Anti_Fascist_Militarism OR = USA_Expand_The_National_Security_Office OR = USA_Civility_Through_Power
+        }
+        relative_position_id = USA_Expand_The_National_Security_Office
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
 }
