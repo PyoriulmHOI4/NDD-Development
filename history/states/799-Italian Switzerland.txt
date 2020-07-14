@@ -1,0 +1,13 @@
+state={
+	id=799
+	name="STATE_799"
+	provinces={
+		3662 9600 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner=ITA
+		add_core_of=ITA
+	}
+}

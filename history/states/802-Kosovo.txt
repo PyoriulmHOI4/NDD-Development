@@ -1,0 +1,14 @@
+
+state={
+	id=802
+	name="STATE_802"
+	provinces={
+		833 867 3922 6940 9849 9874 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner=ITA
+		add_core_of=ITA
+	}
+}

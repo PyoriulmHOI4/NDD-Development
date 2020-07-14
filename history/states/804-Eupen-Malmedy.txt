@@ -1,0 +1,13 @@
+state={
+	id=804
+	name="STATE_804"
+	provinces={
+		3488 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner=GER
+		add_core_of=GER
+	}
+}

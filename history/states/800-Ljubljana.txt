@@ -1,0 +1,13 @@
+state={
+	id=800
+	name="STATE_800"
+	provinces={
+		6650 9627 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner=GER
+		add_core_of=GER
+	}
+}
