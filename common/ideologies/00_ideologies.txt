@@ -339,6 +339,13 @@ ideologies = {
 
 			ultranationalism = {
 			}
+
+			francoism = {
+			}
+
+			antonism = {
+			}
+			
 		}
 
 		dynamic_faction_names = {

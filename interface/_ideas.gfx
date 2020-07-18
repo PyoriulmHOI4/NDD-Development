@@ -1,4 +1,9 @@
 spriteTypes = {
+
+	spriteType = {
+		name = "GFX_idea_Neutrality"
+		textureFile = "gfx/interface/ideas/Neutrality.dds"
+	}
     
 	# FRANCE
     
@@ -27,6 +32,18 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_USA_Bastion_Of_Democracy_Idea"
 		textureFile = "gfx/interface/ideas/USA/idea_USA_Bastion_Of_Democracy_Idea.dds"
+	}
+
+	# SPAIN
+
+	spriteType = {
+		name = "GFX_idea_SPA_Nationalistic_Sentiment"
+		textureFile = "gfx/interface/ideas/SPA/SPA_Nationalistic_Sentiment.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SPA_Scratches_Of_The_Civil_War"
+		textureFile = "gfx/interface/ideas/SPA/SPA_Scratches_Of_The_Civil_War.dds"
 	}
 
 }

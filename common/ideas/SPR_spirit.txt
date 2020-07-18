@@ -1,0 +1,58 @@
+ideas = {
+    country = {
+        SPA_Scratches_Of_The_Civil_War = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = SPA_Scratches_Of_The_Civil_War
+        
+            modifier = {
+                leftism_drift = -0.05
+                political_power_gain = -0.05
+            }
+        }
+        SPA_Nationalistic_Sentiment = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = SPA_Nationalistic_Sentiment
+        
+            modifier = {
+                stability_factor = 0.05
+            }
+        }
+        SPA_Neutral_Foreign_Policy = {
+            allowed = {
+                always = no
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            removal_cost = -1
+        
+            picture = Neutrality
+        
+            modifier = {
+                join_faction_tension = 0.75
+                lend_lease_tension = 0.60
+                send_volunteers_tension = 0.60
+            }
+        }
+    }
+}
