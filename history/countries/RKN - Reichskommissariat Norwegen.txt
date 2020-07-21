@@ -15,9 +15,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Josef Terboven"
-	desc = "POLITICS_JOSEF_TERBOVEN_DESC"
-	picture = "P_RN_Josef_Terboven.tga"
+	name = "Vidkun Quisling"
+	desc = "POLITICS_VIDKUN_QUISLING_DESC"
+	picture = "P_RN_Vidkun_Quisling.tga"
 	expire = "1965.1.1"
 	ideology = national_socialism
 	traits = {
