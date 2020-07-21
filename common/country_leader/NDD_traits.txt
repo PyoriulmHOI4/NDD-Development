@@ -1,3 +1,9 @@
 leader_traits = {
+    # Criminal Status
+    Jailed = {
+        random = no
+    }
+    # Ideology
     SUB_Social_Democracy = { random = no }
+    SUB_Ultranationalism = { random = no }
 }
