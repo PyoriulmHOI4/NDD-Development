@@ -1,0 +1,21 @@
+ideas = {
+    country = {
+        GER_Triumph_Des_Willens = {
+            allowed = {
+                tag = GER
+            }
+        
+            allowed_civil_war = {
+                always = no
+            }
+        
+            removal_cost = -1
+        
+            picture = 
+        
+            modifier = {
+                
+            }
+        }
+    }
+}
