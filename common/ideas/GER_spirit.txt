@@ -17,5 +17,56 @@ ideas = {
                 
             }
         }
+        GER_German_General_Staff = {
+            allowed = {
+                tag = GER
+            }
+        
+            allowed_civil_war = {
+                always = no
+            }
+        
+            removal_cost = -1
+        
+            picture = 
+        
+            modifier = {
+                
+            }
+        }
+        GER_Militarism_Of_The_Reich = {
+            allowed = {
+                tag = GER
+            }
+        
+            allowed_civil_war = {
+                always = no
+            }
+        
+            removal_cost = -1
+        
+            picture = PICTURE_ID_GOES_HERE
+        
+            modifier = {
+                
+            }
+        }
+        GER_Hitlerjugend = {
+            allowed = {
+                tag = GER
+            }
+        
+            allowed_civil_war = {
+                always = no
+            }
+        
+            removal_cost = -1
+        
+            picture = PICTURE_ID_GOES_HERE
+        
+            modifier = {
+                
+            }
+        }
     }
 }

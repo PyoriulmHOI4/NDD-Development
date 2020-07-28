@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_decision_category_GER_Party_Split"
+        textureFile = "gfx/interface/decisions/DC_GER_Split_Party.dds"
+    }
+}

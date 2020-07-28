@@ -1,3 +1,13 @@
 ##############################
 #### GREATER GERMAN REICH ####
 ##############################
+
+DC_GER_Party_Split = {
+	icon = GER_Party_Split
+	allowed = {
+        original_tag = GER
+	}
+    visible = {
+        always = yes
+    }
+}

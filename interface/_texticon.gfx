@@ -1,0 +1,21 @@
+spriteTypes = {
+    # Tooltip Pictures
+    spriteType = {
+        name = "GFX_texticon_GER_Triumph_Des_Willens"
+        textureFile = "gfx/texticons/GER_Triumph_Des_Willens.dds"
+        legacy_lazy_load = no
+    }
+    # Texticons
+    spriteType = {
+        name = "GFX_texticon_faction_hitlerist_20x20"
+        textureFile = "gfx/texticons/faction_hitlerist_20x20.dds"
+    }
+    spriteType = {
+        name = "GFX_texticon_faction_strasserist_20x20"
+        textureFile = "gfx/texticons/faction_strasserist_20x20.dds"
+    }
+    spriteType = {
+        name = "GFX_texticon_faction_thule_society_20x20"
+        textureFile = "gfx/texticons/faction_thule_society_20x20.dds"
+    }
+}

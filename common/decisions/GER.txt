@@ -2,3 +2,20 @@
 #### GREATER GERMAN REICH ####
 ##############################
 
+DC_GER_Party_Split = {
+    A_Decision = {
+        allowed = {
+            original_tag = GER
+        }
+        visible = {
+            always = yes
+        }
+        available = {
+            always = yes
+        }
+        cost = 25
+        complete_effect = {
+            add_manpower = -500
+        }
+    }
+}

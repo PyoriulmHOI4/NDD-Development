@@ -117,7 +117,6 @@ set_war_support = 0.3
 		rudolf_hess
 		ludwig_beck
 		gerd_von_rundstedt
-		GER_autarky_idea
 
 		#laws
 		war_economy
@@ -277,11 +276,10 @@ set_autonomy = {
 }
 
 add_ideas = {
-	sour_loser
-	general_staff
-	limited_exports
-	limited_conscription
-	partial_economic_mobilisation
+	GER_Triumph_Des_Willens
+	GER_German_General_Staff
+	GER_Militarism_Of_The_Reich
+	GER_Hitlerjugend
 }
 
 create_country_leader = {
