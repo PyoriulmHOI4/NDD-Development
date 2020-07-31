@@ -5,6 +5,26 @@ spriteTypes = {
         textureFile = "gfx/texticons/GER_Triumph_Des_Willens.dds"
         legacy_lazy_load = no
     }
+    spriteType = {
+        name = "GFX_texticon_GER_German_General_Staff"
+        textureFile = "gfx/texticons/GER_German_General_Staff.dds"
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = "GFX_texticon_GER_Militarism_Of_The_Reich"
+        textureFile = "gfx/texticons/GER_Militarism_Of_The_Reich.dds"
+        legacy_lazy_load = no
+    }
+    spriteType = {
+        name = "GFX_texticon_GER_Hitlerjugend"
+        textureFile = "gfx/texticons/GER_Hitlerjugend.dds"
+        legacy_lazy_load = no
+    }
+    # Decision Headings
+    spriteType = {
+        name = "GFX_texticon_GER_A_Split_Party"
+        textureFile = "gfx/texticons/GER_A_Split_Party_DC.dds"
+    }
     # Texticons
     spriteType = {
         name = "GFX_texticon_faction_hitlerist_20x20"

@@ -20,10 +20,16 @@
  # Ideas and Spirits
  GER_Triumph_Des_Willens: "Triumph des Willens"
  GER_Triumph_Des_Willens_desc: "\n\n£texticon_GER_Triumph_Des_Willens\n\n\n\nWords, words, words"
+ GER_German_General_Staff: "German General Staff"
+ GER_German_General_Staff_desc: "\n\n£texticon_GER_German_General_Staff\n\n\n\nWords, words, words"
+ GER_Hitlerjugend: "Hitlerjugend"
+ GER_Hitlerjugend_desc: "\n\n£texticon_GER_Hitlerjugend\n\n\n\nWords, words, words"
+ GER_Militarism_Of_The_Reich: "Militarism of the Reich"
+ GER_Militarism_Of_The_Reich_desc: "\n\n£texticon_GER_Militarism_Of_The_Reich\n\n\n\nWords, words, words"
 
  # Decisions and Categories
  DC_GER_Party_Split: "The Party Split"
- DC_GER_Party_Split_desc: "Wafer, tell the localisation slaves that we need a description for this\n\n§Thule Society Support is at [?GER_thule_society_value]\nStrasserist Support is at [?GER_strasserist_value]\nHitlerist Support is at [?GER_hitlerist_value]"
+ DC_GER_Party_Split_desc: "Although the NSDAP has largely been purged of rivals, a few still remain influential, and the NSDAP has split into 3 major factions. These are:\n\n§RStrasserists§!, whom support Otto Strasser in his unique form of National Socialism, placing a strong emphasis on anti-capitalism and a critique of the Reich's slide into Corporatism. Although most influential Strasserists were purged on Kristnallcht, a few still remain, and are slowly building up support. Their support is currently at [?GER_strasserist_value].\n\nThe §GThule Society§!,DESC YET TO BE DECIDED Their support is currently at [?GER_thule_society_value].\n\n§CHitlerists§!, supporting Hitler's brand of National Socialism, which places strong anti-socialist and anti-communist rhetoric, and has taken a more friendly view to corporations, as long as they serve the Reich in it's efforts. This is the most mainstream version of National Socialism, possibly due to the fact that all other versions have had their supporters round up and their leaders killed. Their support is currently at [?GER_hitlerist_value]."
 
  # Variables
  GER_thule_society_value: "Thule Society Support is at [?GER_thule_society_value]"
