@@ -4,6 +4,28 @@ spriteTypes = {
 		name = "GFX_idea_Neutrality"
 		textureFile = "gfx/interface/ideas/Neutrality.dds"
 	}
+
+	# GERMANY
+
+	spriteType = {
+		name = "GFX_idea_GER_Hitlerjugend"
+		textureFile = "gfx/interface/ideas/GER/idea_GER_Hitlerjugend.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_GER_Oberkommando_Der_Wehrmacht"
+		textureFile = "gfx/interface/ideas/GER/idea_GER_Oberkommando_Der_Wehrmacht.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_Militarism_Of_The_Reich"
+		textureFile = "gfx/interface/ideas/GER/idea_GER_Militarism_Of_The_Reich.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_Triumph_Des_Willens"
+		textureFile = "gfx/interface/ideas/GER/idea_GER_Triumph_Des_Willens.dds"
+	}
     
 	# FRANCE
     

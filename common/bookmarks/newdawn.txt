@@ -10,11 +10,9 @@ bookmarks = {
 			history = USA_SOANE_Desc
 			ideology = democratic
 			ideas = {
-				home_of_the_free
-				great_depression_3
-				air_war_plans_division_focus
-				USA_war_department
-				new_deal
+				USA_Civil_Rights_Movement
+				USA_Refuse_Fascism
+				USA_Bastion_Of_Democracy_Idea
 			}
 			focuses = {
 				USA_war_plan_black
@@ -26,10 +24,9 @@ bookmarks = {
 			history = Germany_SOANE_Desc
 			ideology = fascism
 			ideas = {
-				sour_loser
-				general_staff
-				GER_mefo_bills_15
-				GER_autarky_idea
+				GER_Hitlerjugend
+				GER_Triumph_Des_Willens
+				GER_Militarism_Of_The_Reich
 			}
 			focuses = {
 				GER_weserubung

@@ -277,7 +277,7 @@ set_autonomy = {
 
 add_ideas = {
 	GER_Triumph_Des_Willens
-	GER_German_General_Staff
+	GER_Oberkommando_Der_Wehrmacht
 	GER_Militarism_Of_The_Reich
 	GER_Hitlerjugend
 }
@@ -289,7 +289,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = national_socialism
 	traits = {
-		dictator
+		Fuhrer
 	}
 }
 

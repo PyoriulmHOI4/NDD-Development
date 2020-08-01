@@ -11,13 +11,13 @@ ideas = {
         
             removal_cost = -1
         
-            picture = 
+            picture = GER_Triumph_Des_Willens
         
             modifier = {
                 
             }
         }
-        GER_German_General_Staff = {
+        GER_Oberkommando_Der_Wehrmacht = {
             allowed = {
                 tag = GER
             }
@@ -28,7 +28,7 @@ ideas = {
         
             removal_cost = -1
         
-            picture = 
+            picture = GER_Oberkommando_Der_Wehrmacht
         
             modifier = {
                 
@@ -45,7 +45,7 @@ ideas = {
         
             removal_cost = -1
         
-            picture = PICTURE_ID_GOES_HERE
+            picture = GER_Militarism_Of_The_Reich
         
             modifier = {
                 
@@ -62,7 +62,7 @@ ideas = {
         
             removal_cost = -1
         
-            picture = PICTURE_ID_GOES_HERE
+            picture = GER_Hitlerjugend
         
             modifier = {
                 
