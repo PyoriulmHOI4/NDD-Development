@@ -10,5 +10,7 @@ leader_traits = {
     Jailed = { random = no }
     # Ideology
     SUB_Social_Democracy = { random = no }
+
+    SUB_National_Socialism = { random = no }
     SUB_Ultranationalism = { random = no }
 }
