@@ -766,3 +766,7 @@ AOI = {
 	color = rgb { 20 133 237 }
 	color_ui = rgb { 20 133 237 }
 }
+CEA = {
+	color = rgb { 69 94 150 }
+	color_ui = rgb { 69 94 150 }
+}

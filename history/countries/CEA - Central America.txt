@@ -1,0 +1,31 @@
+capital = 219
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+    ruling_party = democratic
+	last_election = "1944.12.18"
+	election_frequency = 72
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 66
+	authoritarianism = 24
+	communism = 10
+}
+
+create_country_leader = {
+	name = "Jacobo Árbenz Guzmán"
+	desc = "POLITICS_JACOBO_ARBENZ_GUZMAN_DESC"
+	picture = "P_D_Jacobo_Arbenz_Guzman.tga"
+	expire = "1965.1.1"
+	ideology = social_democracy
+	traits = {
+		#
+	}
+}
