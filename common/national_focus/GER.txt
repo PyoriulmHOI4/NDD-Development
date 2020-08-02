@@ -57,7 +57,7 @@ focus_tree = {
     }
     focus = {
         id = GER_Lebensborn
-        icon = icon_goes_here
+        icon = GFX_GER_Lebensborn
         cost = 10
         x = 1
         y = 1

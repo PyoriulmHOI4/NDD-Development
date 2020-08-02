@@ -58,6 +58,10 @@ spriteTypes = {
         name = "GFX_GER_Complete_The_Atlantikwall"
         textureFile = "gfx/interface/goals/GER_Complete_The_Atlantikwall.dds"
     }
+    spriteType = {
+        name = "GFX_GER_Lebensborn"
+        textureFile = "gfx/interface/goals/GER_Lebensborn.dds"
+    }
     ### United States
     spriteType = {
         name = "GFX_USA_1949_State_Of_The_Union"
