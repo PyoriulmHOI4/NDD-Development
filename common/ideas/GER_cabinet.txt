@@ -1,0 +1,20 @@
+ideas = {
+    minister = {
+        GER_Alfred_Rosenberg = {
+            allowed = {
+                tag = GER
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+
+            traits = { democratic_reformer }
+        
+            removal_cost = -1
+        
+            picture = GER_Alfred_Rosenberg
+        
+        }
+    }
+}

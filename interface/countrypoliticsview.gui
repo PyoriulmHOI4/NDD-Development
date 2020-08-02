@@ -798,15 +798,6 @@ guiTypes = {
 			clicksound = click_default
 		}
 		
-		iconType = {
-			name = "idea_traits"
-			position = { x = 43 y = 46 }
-			spriteType = "GFX_idea_traits_strip"
-			centerposition = yes
-			alwaystransparent = yes
-			frame = 1
-		}
-		
 	}
 	
 	containerWindowType = {

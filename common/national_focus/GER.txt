@@ -165,11 +165,110 @@ focus_tree = {
         y = 1
         available = {}
         bypass = {}
-        prerequisite = {
-            focus = GER_Deal_With_The_Strasserists
-            focus = GER_Deal_With_The_Thule_Society
-        }
+        prerequisite = { focus = GER_Deal_With_The_Strasserists }
+        prerequisite = { focus = GER_Deal_With_The_Thule_Society }
         relative_position_id = GER_Deal_With_The_Strasserists
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Bond_With_The_Empire
+        icon = icon_goes_here
+        cost = 10
+        x = 4
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Triumph_Des_Willens_Focus
+        }
+        relative_position_id = GER_Triumph_Des_Willens_Focus
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Integrate_The_Reichskommissariats
+        icon = icon_goes_here
+        cost = 10
+        x = -1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Bond_With_The_Empire
+        }
+        relative_position_id = GER_Bond_With_The_Empire
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Grossreichsautobahn
+        icon = icon_goes_here
+        cost = 10
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Integrate_The_Reichskommissariats
+        }
+        relative_position_id = GER_Integrate_The_Reichskommissariats
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Pursue_Ties_With_Italy
+        icon = icon_goes_here
+        cost = 10
+        x = 1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Bond_With_The_Empire
+        }
+        relative_position_id = GER_Bond_With_The_Empire
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_The_Marshal_Successor
+        icon = icon_goes_here
+        cost = 10
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Pursue_Ties_With_Italy
+        }
+        relative_position_id = GER_Pursue_Ties_With_Italy
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_A_Stronger_Reich
+        icon = icon_goes_here
+        cost = 10
+        x = 1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = { focus = GER_Grossreichsautobahn }
+        prerequisite = { focus = GER_The_Marshal_Successor }
+        relative_position_id = GER_Grossreichsautobahn
         search_filters = { }
         completion_reward = {
             

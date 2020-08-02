@@ -36,5 +36,26 @@
  GER_strasserist_value: "Strasserist Support is at [?GER_strasserist_value]"
  GER_hitlerist_value: "Hitlerist Support is at [?GER_hitlerist_value]"
 
+ # Ministers
+ GER_Alfred_Rosenberg: "Alfred Rosenberg"
+
+ # Focuses
+ GER_Triumph_Des_Willens_Focus: "Triumph des Willens"
+ GER_Festung_Europa: "Festung Europa"
+ GER_Complete_The_Atlantikwall: "Complete the Atlantikwall"
+ GER_Lebensborn: "Lebensborn"
+ GER_Purge_Our_Opponents: "Purge Our Opponents"
+ GER_Communist_Sea_Of_Blood: "Communist Sea of Blood"
+ GER_Deal_With_The_Strasserists: "Deal with the Strasserists"
+ GER_Dismantle_Democratic_Institutions: "Dismantle Democratic Institutions"
+ GER_Deal_With_The_Thule_Society: "Deal with the Thule Society"
+ GER_Eine_Vision: "Eine Vision"
+ GER_Bond_With_The_Empire: "Bond with the Empire"
+ GER_Integrate_The_Reichskommissariats: "Integrate the Reichskommissariats"
+ GER_Grossreichsautobahn: "Großreichsautobahn"
+ GER_Pursue_Ties_With_Italy: "Pursue Ties with Italy"
+ GER_The_Marshal_Successor: "The Marshal's Successor"
+ GER_A_Stronger_Reich: "A Stronger Reich"
+
  # Leader Descriptions
  POLITICS_ADOLF_HITLER_DESC: "Who would've thought that a sickly boy who wanted to be an artist would become the single-most powerful man in the world?\n\nFollowing the devastation of the First World War, Corporal Adolf Hitler returned to a Germany in ruin. All around him, he saw rot and greed. It was not long before he found the source: the Jews. They had been welcomed as guests, but thought to act as the hosts. Hitler would make sure that their evil was exposed and destroyed- and so he did. Taking charge of the then-young Nazi Party, Hitler led the party to victory in election after election. In 1932, the NSDAP became the largest party in Germany, and the next year Hitler was declared Führer of all Germany.\n\nBy the end of 1946, Hitler's dream of a Germany and a Europe free from Judeo-Bolshevik and Judeo-Capitalist influence had been achieved. True, the Bolshevik Jews are still around, but they are scattered and thus pose little threat. The American Mongrels, however, still controlled by the Jewish Capitalists, remains in a position to oppose the Reich.\n\nNow an old man, Hitler can feel the Reaper's cold breath on his shoulder as the inevitable fate of all men inches ever closer. He wonders if there is still enough time for him to ensure the safety of the Reich's future..."
