@@ -1,0 +1,178 @@
+focus_tree = {
+    id = GER_tree
+    country = {
+        factor = 0
+        modifier = {
+            add = 25
+            tag = GER
+        }
+    }
+    default = no
+    focus = {
+        id = GER_Triumph_Des_Willens_Focus
+        icon = icon_goes_here
+        cost = 5
+        x = 7
+        y = 0
+        available = {}
+        bypass = {}
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Festung_Europa
+        icon = icon_goes_here
+        cost = 10
+        x = -4
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Triumph_Des_Willens_Focus
+        }
+        relative_position_id = GER_Triumph_Des_Willens_Focus
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Complete_The_Atlantikwall
+        icon = icon_goes_here
+        cost = 10
+        x = -1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Festung_Europa
+        }
+        relative_position_id = GER_Festung_Europa
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Lebensborn
+        icon = icon_goes_here
+        cost = 10
+        x = 1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Festung_Europa
+        }
+        relative_position_id = GER_Festung_Europa
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Purge_Our_Opponents
+        icon = icon_goes_here
+        cost = 10
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Triumph_Des_Willens_Focus
+        }
+        relative_position_id = GER_Triumph_Des_Willens_Focus
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Communist_Sea_Of_Blood
+        icon = icon_goes_here
+        cost = 10
+        x = -1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Purge_Our_Opponents
+        }
+        relative_position_id = GER_Purge_Our_Opponents
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Deal_With_The_Strasserists
+        icon = icon_goes_here
+        cost = 10
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Communist_Sea_Of_Blood
+        }
+        relative_position_id = GER_Communist_Sea_Of_Blood
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Dismantle_Democratic_Institutions
+        icon = icon_goes_here
+        cost = 10
+        x = 1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Purge_Our_Opponents
+        }
+        relative_position_id = GER_Purge_Our_Opponents
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Deal_With_The_Thule_Society
+        icon = icon_goes_here
+        cost = 10
+        x = 0
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Dismantle_Democratic_Institutions
+        }
+        relative_position_id = GER_Dismantle_Democratic_Institutions
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+    focus = {
+        id = GER_Eine_Vision
+        icon = icon_goes_here
+        cost = 10
+        x = 1
+        y = 1
+        available = {}
+        bypass = {}
+        prerequisite = {
+            focus = GER_Deal_With_The_Strasserists
+            focus = GER_Deal_With_The_Thule_Society
+        }
+        relative_position_id = GER_Deal_With_The_Strasserists
+        search_filters = { }
+        completion_reward = {
+            
+        }
+    }
+}

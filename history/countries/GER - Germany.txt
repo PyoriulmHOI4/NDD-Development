@@ -289,6 +289,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = national_socialism
 	traits = {
+		SUB_National_Socialism
 		Fuhrer
 	}
 }

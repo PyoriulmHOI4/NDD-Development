@@ -5,7 +5,8 @@ state={
 	provinces={
 		833 867 3922 6940 9849 9874 
 	}
-	manpower=0
+	manpower=764000
+	state_category=city
 	buildings_max_level_factor=1.000
 	history={
 		owner=ITA

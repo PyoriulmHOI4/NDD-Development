@@ -4,7 +4,8 @@ state={
 	provinces={
 		911 956 3764 3928 3959 3961 6975 9736 9738 9909 11721 
 	}
-	manpower=0
+	manpower=400000
+	state_category=large_town
 	buildings_max_level_factor=1.000
 	history={
 		owner=ITA
