@@ -10,7 +10,7 @@ focus_tree = {
     default = no
     focus = {
         id = GER_Triumph_Des_Willens_Focus
-        icon = icon_goes_here
+        icon = GFX_GER_Nuremburg_Rally
         cost = 5
         x = 7
         y = 0
@@ -23,7 +23,7 @@ focus_tree = {
     }
     focus = {
         id = GER_Festung_Europa
-        icon = icon_goes_here
+        icon = GFX_GENERIC_Anti_Communism
         cost = 10
         x = -4
         y = 1
@@ -40,7 +40,7 @@ focus_tree = {
     }
     focus = {
         id = GER_Complete_The_Atlantikwall
-        icon = icon_goes_here
+        icon = GFX_GER_Complete_The_Atlantikwall
         cost = 10
         x = -1
         y = 1

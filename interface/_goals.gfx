@@ -36,6 +36,10 @@ spriteTypes = {
         name = "GFX_GENERIC_Anti_Fascist_Militarism"
         textureFile = "gfx/interface/goals/GENERIC_Anti_Fascist_Militarism.dds"
     }
+    spriteType = {
+        name = "GFX_GENERIC_Anti_Communism"
+        textureFile = "gfx/interface/goals/GENERIC_Anti_Communism.dds"
+    }
     # Alliance/Diplomatic Icons
     spriteType = {
         name = "GFX_GENERIC_Foreign_Diplomacy"
@@ -44,6 +48,15 @@ spriteTypes = {
     spriteType = {
         name = "GFX_GENERIC_Befriend_Britain"
         textureFile = "gfx/interface/goals/GENERIC_Befriend_Britain.dds"
+    }
+    ### Germany
+    spriteType = {
+        name = "GFX_GER_Nuremburg_Rally"
+        textureFile = "gfx/interface/goals/GER_Nuremburg_Rally.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Complete_The_Atlantikwall"
+        textureFile = "gfx/interface/goals/GER_Complete_The_Atlantikwall.dds"
     }
     ### United States
     spriteType = {
