@@ -3,4 +3,8 @@ spriteTypes = {
         name = "GFX_idea_GER_Alfred_Rosenberg"
         textureFile = "gfx/interface/cabinet/GER_Alfred_Rosenberg.dds"
     }
+    spriteType = {
+        name = "GFX_idea_GER_Albert_Speer"
+        textureFile = "gfx/interface/cabinet/GER_Albert_Speer.dds"
+    }
 }

@@ -74,6 +74,18 @@ spriteTypes = {
         name = "GFX_GER_Purge_Our_Opponents"
         textureFile = "gfx/interface/goals/GER_Purge_Our_Opponents.dds"
     }
+    spriteType = {
+        name = "GFX_GER_Deal_With_The_Strasserists"
+        textureFile = "gfx/interface/goals/GER_Deal_With_The_Strasserists.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Deal_With_The_Thule_Society"
+        textureFile = "gfx/interface/goals/GER_Deal_With_The_Thule_Society.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Eine_Vision"
+        textureFile = "gfx/interface/goals/GER_Eine_Vision.dds"
+    }
     ### United States
     spriteType = {
         name = "GFX_USA_1949_State_Of_The_Union"
