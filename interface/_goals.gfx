@@ -40,6 +40,10 @@ spriteTypes = {
         name = "GFX_GENERIC_Anti_Communism"
         textureFile = "gfx/interface/goals/GENERIC_Anti_Communism.dds"
     }
+    spriteType = {
+        name = "GFX_GENERIC_Executive_Decisions"
+        textureFile = "gfx/interface/goals/GENERIC_Executive_Decisions.dds"
+    }
     # Alliance/Diplomatic Icons
     spriteType = {
         name = "GFX_GENERIC_Foreign_Diplomacy"
@@ -61,6 +65,14 @@ spriteTypes = {
     spriteType = {
         name = "GFX_GER_Lebensborn"
         textureFile = "gfx/interface/goals/GER_Lebensborn.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Communist_Sea_Of_Blood"
+        textureFile = "gfx/interface/goals/GER_Communist_Sea_Of_Blood.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Purge_Our_Opponents"
+        textureFile = "gfx/interface/goals/GER_Purge_Our_Opponents.dds"
     }
     ### United States
     spriteType = {

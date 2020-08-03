@@ -74,7 +74,7 @@ focus_tree = {
     }
     focus = {
         id = GER_Purge_Our_Opponents
-        icon = icon_goes_here
+        icon = GFX_GER_Purge_Our_Opponents
         cost = 10
         x = 0
         y = 1
@@ -91,7 +91,7 @@ focus_tree = {
     }
     focus = {
         id = GER_Communist_Sea_Of_Blood
-        icon = icon_goes_here
+        icon = GFX_GER_Communist_Sea_Of_Blood
         cost = 10
         x = -1
         y = 1
@@ -125,7 +125,7 @@ focus_tree = {
     }
     focus = {
         id = GER_Dismantle_Democratic_Institutions
-        icon = icon_goes_here
+        icon = GFX_GENERIC_Executive_Decisions
         cost = 10
         x = 1
         y = 1
