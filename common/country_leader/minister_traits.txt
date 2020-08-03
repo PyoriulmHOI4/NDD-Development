@@ -1,0 +1,11 @@
+leader_traits = {
+    Media_Demagogue = {
+        random = no
+        political_power_factor = 0.05
+        ideology_drift_defense = 0.10
+    }
+    Architect_Of_War = {
+        random = no
+        conversion_cost_civ_to_mil_factor = -0.2
+    }
+}

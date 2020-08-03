@@ -1,5 +1,5 @@
 ideas = {
-    minister = {
+    foreign_minister = {
         GER_Alfred_Rosenberg = {
             allowed = {
                 tag = GER
@@ -9,11 +9,29 @@ ideas = {
                 always = yes
             }
 
-            traits = { democratic_reformer }
+            traits = { Media_Demagogue }
         
             removal_cost = -1
         
             picture = GER_Alfred_Rosenberg
+        
+        }
+    }
+    minister = {
+        GER_Albert_Speer = {
+            allowed = {
+                tag = GER
+            }
+        
+            allowed_civil_war = {
+                always = yes
+            }
+        
+            traits = { Architect_Of_War }
+
+            removal_cost = -1
+        
+            picture = PICTURE_ID_GOES_HERE
         
         }
     }
