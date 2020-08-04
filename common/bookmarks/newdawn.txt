@@ -20,6 +20,16 @@ bookmarks = {
 				USA_selective_training_act
 			}
 		}
+		ENG = {
+			history = Britain_SOANE_Desc
+			ideology = fascism
+			ideas={
+				
+			}
+			focuses = {
+				
+			}			
+		}
 		GER = {
 			history = Germany_SOANE_Desc
 			ideology = fascism
@@ -47,8 +57,28 @@ bookmarks = {
 				ITA_italy_first
 			}			
 		}
+		AUR = {
+			history = UARG_SOANE_Desc
+			ideology = fascism
+			ideas={
+				
+			}
+			focuses = {
+				
+			}			
+		}
+		SOV = {
+			history = SSR_SOANE_Desc
+			ideology = fascism
+			ideas={
+				
+			}
+			focuses = {
+				
+			}			
+		}
 		JAP = {
-			history = Japan_SOANE_DESC
+			history = Japan_SOANE_Desc
 			ideology = fascism
 			ideas={
 				state_shintoism
@@ -61,8 +91,16 @@ bookmarks = {
 				JAP_strike_on_the_southern_resource_area
 			}		
 		}
-
-		### American Bloc ###
+		OTHER = {
+			history = Other_SOANE_Desc
+			ideology = fascism
+			ideas={
+				
+			}
+			focuses = {
+				
+			}			
+		}
 
 		effect = {
 			randomize_weather = 12345 # <- Obligatory in every bookmark !
