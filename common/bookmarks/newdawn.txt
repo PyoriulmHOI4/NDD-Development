@@ -91,7 +91,7 @@ bookmarks = {
 				JAP_strike_on_the_southern_resource_area
 			}		
 		}
-		OTHER = {
+		--- = {
 			history = Other_SOANE_Desc
 			ideology = fascism
 			ideas={
