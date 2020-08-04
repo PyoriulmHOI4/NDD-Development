@@ -124,7 +124,7 @@ focus_tree = {
         }
     }
     focus = {
-        id = GER_Dismantle_Democratic_Institutions
+        id = GER_Reinforce_National_Socialist_Democracy
         icon = GFX_GENERIC_Executive_Decisions
         cost = 10
         x = 1
@@ -149,9 +149,9 @@ focus_tree = {
         available = {}
         bypass = {}
         prerequisite = {
-            focus = GER_Dismantle_Democratic_Institutions
+            focus = GER_Reinforce_National_Socialist_Democracy
         }
-        relative_position_id = GER_Dismantle_Democratic_Institutions
+        relative_position_id = GER_Reinforce_National_Socialist_Democracy
         search_filters = { }
         completion_reward = {
             

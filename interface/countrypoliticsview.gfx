@@ -622,33 +622,33 @@ spriteTypes = {
 	# RIGHT NATIONALISM
 
 	spriteType = {
-		name = "GFX_ideology_esoteric_national_socialism"
-		texturefile = "gfx/interface/ideologies/rn_esoteric_national_socialism.dds"
+		name = "GFX_ideology_left_nationalism_group"
+		textureFile = "gfx/interface/ideologies/left_nationalism.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ideology_national_socialism"
-		texturefile = "gfx/interface/ideologies/rn_national_socialism.dds"
+		name = "GFX_ideology_leftism_group"
+		textureFile = "gfx/interface/ideologies/leftism.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ideology_legionarism"
-		texturefile = "gfx/interface/ideologies/rn_legionarism.dds"
+		name = "GFX_ideology_democratic_group"
+		textureFile = "gfx/interface/ideologies/democratic.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ideology_ultranationalism"
-		texturefile = "gfx/interface/ideologies/rn_ultranationalism.dds"
+		name = "GFX_ideology_authoritarianism_group"
+		textureFile = "gfx/interface/ideologies/authoritarianism.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ideology_ethnic_nationalism"
-		texturefile = "gfx/interface/ideologies/rn_ethnic_nationalism.dds"
+		name = "GFX_ideology_rightism_group"
+		textureFile = "gfx/interface/ideologies/rightism.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ideology_fascism"
-		texturefile = "gfx/interface/ideologies/rn_fascism.dds"
+		name = "GFX_ideology_right_nationalism_group"
+		textureFile = "gfx/interface/ideologies/right_nationalism.dds"
 	}
 	
 }
