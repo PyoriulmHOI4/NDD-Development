@@ -44,6 +44,10 @@ spriteTypes = {
         name = "GFX_GENERIC_Executive_Decisions"
         textureFile = "gfx/interface/goals/GENERIC_Executive_Decisions.dds"
     }
+    spriteType = {
+        name = "GFX_GENERIC_Death_Of_Philippe_Petain"
+        textureFile = "gfx/interface/goals/GENERIC_Death_Of_Philippe_Petain.dds"
+    }
     # Alliance/Diplomatic Icons
     spriteType = {
         name = "GFX_GENERIC_Foreign_Diplomacy"
@@ -85,6 +89,14 @@ spriteTypes = {
     spriteType = {
         name = "GFX_GER_Eine_Vision"
         textureFile = "gfx/interface/goals/GER_Eine_Vision.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Bond_With_The_Empire"
+        textureFile = "gfx/interface/goals/GER_Bond_With_The_Empire.dds"
+    }
+    spriteType = {
+        name = "GFX_GER_Grossreichsautobahn"
+        textureFile = "gfx/interface/goals/GER_Grossreichsautobahn.dds"
     }
     ### United States
     spriteType = {
