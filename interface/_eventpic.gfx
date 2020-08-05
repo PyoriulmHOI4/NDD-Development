@@ -3,4 +3,8 @@ spriteTypes = {
         name = "GFX_Report_USA_Congress"
         textureFile = "gfx/event_pictures/Report_USA_Congress.dds"
     }
+    spriteType = {
+        name = "GFX_Report_GER_Death_Of_Adolf_Hitler"
+        textureFile = "gfx/event_pictures/Report_GER_Death_Of_Adolf_Hitler.dds"
+    }
 }

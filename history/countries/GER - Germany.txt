@@ -282,6 +282,10 @@ add_ideas = {
 	GER_Hitlerjugend
 }
 
+add_to_variable = { GER_thule_society_value = 2 }
+
+add_to_variable = { GER_hitlerist_value = 25 }
+
 create_country_leader = {
 	name = "Adolf Hitler"
 	desc = "POLITICS_ADOLF_HITLER_DESC"

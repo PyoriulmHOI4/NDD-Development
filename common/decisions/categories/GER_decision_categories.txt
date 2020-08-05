@@ -10,5 +10,6 @@ DC_GER_Party_Split = {
     visible = {
         always = yes
     }
+    visible_when_empty = yes
     priority = 100
 }
