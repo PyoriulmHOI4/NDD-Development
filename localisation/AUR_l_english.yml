@@ -1,19 +1,16 @@
 ﻿l_english:
  # Country Naming
- AUR_authoritarianism:0 "All-United Russian Government"
- AUR_authoritarianism_DEF:0 "the All-United Russian Government"
+ AUR_authoritarianism:0 "United All-Russian Government"
+ AUR_authoritarianism_DEF:0 "the United All-Russian Government"
  AUR_authoritarianism_ADJ:0 "Russian"
- AUR:0 "All-United Russian Government"
- AUR_DEF:0 "All-United Russian Government"
+ AUR:0 "Russia"
+ AUR_DEF:0 "Russia"
  AUR_ADJ:0 "Russian"
-
-
 
  # Country Party Naming
  AUR_left_nationalism_party:0 "NKA"
  AUR_left_nationalism_party_long:0 "Neo-bol'shevistskaya Krasnaya Armiya"
- AUR_leftism_party:0 "M"
- AUR_leftism_party_long:0 "Men'sheviki"
+ AUR_leftism_party:0 "Men'sheviki"
  AUR_democratic_party:0 "DRP"
  AUR_democratic_party_long:0 "Demokraticheskaya Rabochaya Partiya"
  AUR_authoritarianism_party:0 "VSR"
@@ -22,8 +19,6 @@
  AUR_rightism_party_long:0 "Soyuz Russkogo Naroda"
  AUR_right_nationalism_party:0 "SRN"
  AUR_right_nationalism_party_long:0 "Soyuz Russkogo Naroda"
-
-
 
  # Leader Descriptions 
  POLITICS_PROVISIONAL_COUNCIL_DESC:0 "#"
