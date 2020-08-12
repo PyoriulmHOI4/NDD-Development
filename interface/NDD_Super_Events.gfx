@@ -30,6 +30,12 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_SE_Fall_Of_Democracy"
+		texturefile = "gfx/super_events/SE_Fall_OF_Democracy.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
 		name = "GFX_SPEVNT_Turkish_Civil_War"
 		texturefile = "gfx/super_events/SPEVNT_Turkish_Civil_War.dds"
 		legacy_lazy_load = no

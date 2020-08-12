@@ -17,6 +17,13 @@ defined_text = { #SUPER EVENT TITLES
 
     text = { 
         trigger = {
+            has_country_flag = USA_Fall_Of_Democracy
+        }
+        localization_key = "GFX_SE_USA_Fall_Of_Democracy"
+    }
+
+    text = { 
+        trigger = {
             has_country_flag = TUR_Turkish_Civil_War
         }
         localization_key = "GFX_SPEVNT_Turkish_Civil_War"
@@ -66,6 +73,13 @@ defined_text = { #SUPER EVENT QUOTES
             has_country_flag = GER_Nuremburg_Rally
         }
         localization_key = "GFX_SE_GER_Nuremburg_Rally_TEXT"
+    }
+
+    text = { 
+        trigger = {
+            has_country_flag = USA_Fall_Of_Democracy
+        }
+        localization_key = "GFX_SE_USA_Fall_Of_Democracy_TEXT"
     }
 
     text = { 

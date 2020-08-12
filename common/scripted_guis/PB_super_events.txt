@@ -27,6 +27,12 @@ scripted_gui = {
 		}
 
 		triggers = {
+			Super_Event_Image_Fall_Of_Democracy_visible = {
+				has_country_flag  = USA_Fall_Of_Democracy
+			}
+		}
+
+		triggers = {
 			Super_Event_Image_Turkish_Civil_War_visible = {
 				has_country_flag  = TUR_Turkish_Civil_War
 			}
@@ -78,6 +84,13 @@ scripted_gui = {
 						has_country_flag = GER_Nuremburg_Rally
 					}
 					clr_country_flag  = GER_Nuremburg_Rally
+				}
+
+				if = {
+					limit = {	
+						has_country_flag = USA_Fall_Of_Democracy
+					}
+					clr_country_flag  = USA_Fall_Of_Democracy
 				}
 
 				if = {
