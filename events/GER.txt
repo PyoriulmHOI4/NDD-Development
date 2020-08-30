@@ -32,3 +32,13 @@ country_event = {
         }
     }
 }
+country_event = {
+    id = GER.2
+    title = GER.2_title
+    desc = GER.2.desc
+    picture = GFX_Report_GER_Atlantikwall
+    is_triggered_only = yes
+    option = {
+        name = GER.2.a
+    }
+}
