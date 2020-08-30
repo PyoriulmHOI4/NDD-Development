@@ -7,4 +7,8 @@ spriteTypes = {
         name = "GFX_Report_GER_Death_Of_Adolf_Hitler"
         textureFile = "gfx/event_pictures/Report_GER_Death_Of_Adolf_Hitler.dds"
     }
+    spriteType = {
+        name = "GFX_Report_GER_Atlantikwall"
+        textureFile = "gfx/event_pictures/Report_GER_Atlantikwall.dds"
+    }
 }
